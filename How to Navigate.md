@@ -11,15 +11,15 @@ Do let me know if you need anything, thanks!
 
 -----
 _1) Excel_
-__Sales Report Analysis__
-__Location:__ Surabaya, Indonesia
-__Description:__
-During my IT class at CUHKSZ, I developed several sales reports that demonstrate my skills in using Pivot Tables, 
-creating sales dashboards, analyzing sales and profits, and performing data cleaning. These projects reflect the 
-practical application of the knowledge I gained, enabling me to analyze complex datasets and present insights effectively.
-•	Developed sales reports using Pivot Tables and dynamic dashboards.
-•	Analyzed sales and profit data, applying insights from IT class at CUHKSZ.
-•	Performed data cleaning to ensure accurate and consistent reporting.
+__Sales Report Analysis__  
+__Location:__ Surabaya, Indonesia  
+__Description:__  
+During my IT class at CUHKSZ, I developed several sales reports that demonstrate my skills in using Pivot Tables,   
+creating sales dashboards, analyzing sales and profits, and performing data cleaning. These projects reflect the   
+practical application of the knowledge I gained, enabling me to analyze complex datasets and present insights effectively.  
+•	Developed sales reports using Pivot Tables and dynamic dashboards.  
+•	Analyzed sales and profit data, applying insights from IT class at CUHKSZ.  
+•	Performed data cleaning to ensure accurate and consistent reporting.  
 
 __Excel Digital Analytics__ (to be uploaded soon)
 __Location:__ Surabaya, Indonesia
