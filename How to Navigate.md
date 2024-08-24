@@ -10,7 +10,7 @@ This portfolio is constantly updated, so keep on the lookout!
 Do let me know if you need anything, thanks!  
   
 -----
-_1) Excel_
+_1) Excel_  
 __Sales Report Analysis__  
 __Location:__ Surabaya, Indonesia  
 __Description:__  
