@@ -10,7 +10,7 @@ This portfolio is constantly updated, so keep on the lookout!
 Do let me know if you need anything, thanks!  
   
 -----
-_1) Excel_  
+##_1) Excel_  
 __Sales Report Analysis__  
 __Location:__ Surabaya, Indonesia  
 __Description:__  
@@ -28,7 +28,7 @@ I developed samples from my digital marketing analytics classes, focusing on mea
 experiments such as A/B tests. These projects showcase my understanding of digital marketing metrics and the application  
 of analytical techniques to optimize marketing strategies.  
   
-_2) Python_  
+##_2) Python_  
 __Marketing Analytics on Retail Company__  
 __Location:__ Shenzhen, China 
 __Duration:__ January 2024 – May 2024  
@@ -36,7 +36,7 @@ __Description:__
 •	Analyzed a Russian retail company’s messaging campaigns using correlation, segmentation, and regression analysis to optimize  strategies and predict performance.  
 •	Responsible for data cleaning and logistic regression analysis for all conversion chain using Python on Google Colab.  
   
-_3) SPSS_  
+##_3) SPSS_  
 __Perceptual Mapping on Lays Potato Chips__ (to be uploaded soon)  
 __Location:__ Shenzhen, China   
 __Duration:__ September 2023 – December 2023  
